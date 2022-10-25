@@ -8,7 +8,7 @@ I'm interested in leveraging the state-of-the-art NLP transformer models like BE
 
 Currently, I'm learning [Adapter-Transformers](https://github.com/adapter-hub/adapter-transformers), an extension made by integrating adapters into the Hugging Face Transformer models via [AdapterHub](https://adapterhub.ml/). 
 
-In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the "NLP Tutorials" repository.
+In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the [NLP Tutorials](https://github.com/azizbarank/NLP-Tutorials) repository.
 
 
 ## 🛠️ Skills
