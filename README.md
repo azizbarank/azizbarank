@@ -8,7 +8,7 @@ I'm interested in leveraging the state-of-the-art NLP transformer models like BE
 
 Currently, I'm learning [Adapter-Transformers](https://github.com/adapter-hub/adapter-transformers), an extension made by integrating adapters into the Hugging Face Transformer models via [AdapterHub](https://adapterhub.ml/). 
 
-In my spare time, I keep up with the recent developments in the field of NLP/CL by reading articles and the latest published books.
+In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the "NLP Tutorials" repository.
 
 
 ## 🛠️ Skills
@@ -56,9 +56,8 @@ In my spare time, I keep up with the recent developments in the field of NLP/CL 
 
   Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
 
-## 💻 My Blog Posts
+## 💻 My Posts about NLP
 
-* [4 Highly Practical Books to Read for Applied NLP](https://azizbarank.github.io/post/d/)
-* [Dealing with Lack of Computational Resources in NLP](https://azizbarank.github.io/post/b/)
-* [Simple Guide to Building and Deploying Transformer Models with Hugging Face](https://azizbarank.github.io/post/c/)
-* [Transformers as Feature Extractors](https://azizbarank.github.io/post/a/)
+* [Transformers as Feature Extractors](https://github.com/azizbarank/NLP-Tutorials/blob/main/transformers.md)
+* [Dealing with Lack of Computational Resources in NLP](https://github.com/azizbarank/NLP-Tutorials/blob/main/resources.md)
+* [Simple Guide to Building and Deploying Transformer Models with Hugging Face](https://github.com/azizbarank/NLP-Tutorials/blob/main/deployment.md)
