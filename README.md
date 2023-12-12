@@ -16,7 +16,8 @@ In my spare time, I write posts about my personal experience in NLP and publish 
    ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=ffdd54?)
 
 **Business Intelligence**
-![Power Bi](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F7931E?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
+
+   ![Power Bi](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F7931E?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
   
 **Natural Language Processing**
 
