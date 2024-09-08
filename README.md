@@ -9,7 +9,7 @@ During my master's education, I realized I would enjoy leveraging AI to drive bu
 In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the [NLP Tutorials](https://github.com/azizbarank/NLP-Tutorials) repository. Very soon, I'm going to add my so far dashboards done with Tableau and PowerBI as well.
 
 ## How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-baran-kurtulus-0334752b4/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aziz-baran-kurtulus-0334752b4)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azizbarank@gmail.com)
 
 ## 🛠️ Skills
