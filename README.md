@@ -37,13 +37,21 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 
 ## 📃 Projects
 
-|  Data Analysis Projects     | Machine Learning & NLP Projects |     Machine Learning Projects   |
-| -----------------  | -------- | --------- |
-|[California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)  |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
-|[Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)  |[Toxic Comment Detector](https://github.com/azizbarank/Toxic-Comment-Detector)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
-|[Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)	     |[cst-5](https://github.com/azizbarank/Czech-T5-Base-Model)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
-|[Amsterdam Airbnb Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)	         |[Financial Sentiment Analysis with Machine Learning LSTM and BERT Transformer] |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|(https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)|
-|	       |[distilroberta base sst-2 distilled](https://github.com/azizbarank/distilroberta-base-sst-2-distilled)|
+* [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
+
+  Fine-tuned the distilled Turkish BERT model on a review classification dataset for sentiment analysis. The final model achieved 86% accuracy and was deployed to Hugging Face Spaces using Streamlit as an interactive web app. The app provides a no-code way for people to see whether a particular review is "positive" or "negative". 
+
+* [Toxic Comment Detector](https://github.com/azizbarank/Toxic-Comment-Detector) - [Web App](https://huggingface.co/spaces/azizbarank/Toxic-Comment-Detection-App)
+ 
+  Binary classification project to predict whether a comment is toxic or not. Three machine learning models of Multinomial Naive Bayes, Logistic Regression, and Support Vector Machine were used. The best model was a Naive Bayes classifier with TF-IDF Vectorizer with the F1 and Recall scores of **0,85** and **0,88**, respectively. The application uses this model to predict the toxicity of comments.
+ 
+* [cst5](https://github.com/azizbarank/Czech-T5-Base-Model) - [Hugging Face](https://huggingface.co/azizbarank/cst5-base)
+
+  cst5 is a tiny T5 model for the Czech language that is based on the smaller version of Google's mT5 model. cst5 is meant to help people in doing experiments for the Czech language by enabling them to use a lightweight model, rather than the 101 languages-covering massive mT5. cst5 was obtained by retaining only the Czech and English embeddings of the mT5 model, during which the total size was reduced from **2.2GB** to **0.9GB** as a result of shrinking the original "sentencepiece" vocabulary from **250K** to **30K** tokens and parameters from **582M** to **244M**. cst5, thus, allows people to do fine-tuning for further downstream tasks in the Czech language with less size requirement and without any loss in quality from the original multilingual model.
+
+* [Financial Sentiment Analysis with Machine Learning, LSTM, and BERT Transformer](https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)
+
+  Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
 
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
 
