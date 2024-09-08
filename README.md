@@ -73,6 +73,7 @@ This section is divided into two parts; 'Data Analysis' and 'Machine Learning & 
 * [Financial Sentiment Analysis with Machine Learning, LSTM, and BERT Transformer](https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)
 
   Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
+---
 
 ## 💻 My Posts about NLP
 
