@@ -38,6 +38,7 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 ## 📃 Projects
 
 This section is divided into two parts; 'Data Analysis' and 'Machine Learning & NLP' projects. You can click the given links to look at the details of the projects further.
+
 ---
 #### Data Analysis Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
