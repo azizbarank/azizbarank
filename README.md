@@ -37,12 +37,12 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 
 ## 📃 Projects
 
-|  Data Analysis Projects     | Machine Learning & NLP Projects | 
-| -----------------  | -------- |
-|[California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)  |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
-|[Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)  |[Toxic Comment Detector](https://github.com/azizbarank/Toxic-Comment-Detector)|
-|[Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)	     |[cst-5](https://github.com/azizbarank/Czech-T5-Base-Model)|
-|[Amsterdam Airbnb Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)	         |[Financial Sentiment Analysis with Machine Learning LSTM and BERT Transformer](https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)|
+|  Data Analysis Projects     | Machine Learning & NLP Projects |     Machine Learning Projects   |
+| -----------------  | -------- | --------- |
+|[California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)  |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
+|[Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)  |[Toxic Comment Detector](https://github.com/azizbarank/Toxic-Comment-Detector)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
+|[Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)	     |[cst-5](https://github.com/azizbarank/Czech-T5-Base-Model)| |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|
+|[Amsterdam Airbnb Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)	         |[Financial Sentiment Analysis with Machine Learning LSTM and BERT Transformer] |[Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser)|(https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)|
 |	       |[distilroberta base sst-2 distilled](https://github.com/azizbarank/distilroberta-base-sst-2-distilled)|
 
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
