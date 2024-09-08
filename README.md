@@ -32,11 +32,11 @@ In my spare time, I write posts about my personal experience in NLP and publish 
   
 **IDEs & Notebooks** 
   
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code&logoColor=2C2D72) ![Jupyter](https://img.shields.io/badge/Jupyter_Lab-black?style=flat-square&logo=Jupyter&logoColor=F37626) ![Google Colab](https://img.shields.io/badge/Colab-black?style=flat-square&logo=googlecolab&color=black) ![Jupyter Notebook](https://camo.githubusercontent.com/9e480c584c43933793430e771351727de61ea44580dd08cb37d30c350d290377/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722532304e6f7465626f6f6b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a757079746572)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter_Lab-black?style=flat-square&logo=Jupyter&logoColor=F37626) ![Google Colab](https://img.shields.io/badge/Colab-black?style=flat-square&logo=googlecolab&color=black) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-black.svg?style=flat-square&logo=jupyter&logoColor=F37626)
   
 **Other Technologies & Tools** 
 
-   ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda&logoColor=342B029.svg) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat-square&logo=microsoft-excel&logoColor=white)
+   ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda&logoColor=342B029.svg) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat-square&logo=microsoft-excel&logoColor=white) ![Overlaf](https://img.shields.io/badge/Overleaf-black?style=flat-square&logo=Overleaf&logoColor=Green)
 
 ## 📃 Projects
 
