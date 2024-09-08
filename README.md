@@ -8,6 +8,9 @@ During my master's education, I realized I would enjoy leveraging AI to drive bu
 
 In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the [NLP Tutorials](https://github.com/azizbarank/NLP-Tutorials) repository. Very soon, I'm going to add my so far dashboards done with Tableau and PowerBI as well.
 
+## How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-baran-kurtulus-0334752b4/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azizbarank@gmail.com)
 
 ## 🛠️ Skills
 
@@ -17,7 +20,7 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 
 **Business Intelligence**
 
-   ![Power Bi](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F7931E?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
+   ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F7931E?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
   
 **Natural Language Processing**
 
@@ -40,24 +43,24 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 This section is divided into two parts; 'Data Analysis' and 'Machine Learning & NLP' projects. You can click the given links to look at the details of the projects further.
 
 ---
-#### Data Analysis Projects
-* [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
+#### 📈 Data Analysis Projects
+* [California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)
 
-  Fine-tuned the distilled Turkish BERT model on a review classification dataset for sentiment analysis. The final model achieved 86% accuracy and was deployed to Hugging Face Spaces using Streamlit as an interactive web app. The app provides a no-code way for people to see whether a particular review is "positive" or "negative". 
+  Analyzed the dataset about selected communicable infectious diseases reported in the state of California between 2001-2022. The dataset was taken from the official website of [Data.gov](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). Through using pandas and matplotlib, the trends of common diseases throughout the giiven years was looked at and additionally, the distribution of them by gender and counties were considered.
 
-* [Toxic Comment Detector](https://github.com/azizbarank/Toxic-Comment-Detector) - [Web App](https://huggingface.co/spaces/azizbarank/Toxic-Comment-Detection-App)
+* [Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
  
-  Binary classification project to predict whether a comment is toxic or not. Three machine learning models of Multinomial Naive Bayes, Logistic Regression, and Support Vector Machine were used. The best model was a Naive Bayes classifier with TF-IDF Vectorizer with the F1 and Recall scores of **0,85** and **0,88**, respectively. The application uses this model to predict the toxicity of comments.
+  Data analysis project to gain insight into how the crime rates fluctuated in Chicago between 2001-2024. Python libraries of pandas, numpy, matplotlib and seaborn are used to achieve this. Additionally, the most common types of crimes and the locations they occur the most are considered. The dataset was taken from [Data.gov](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
  
-* [cst5](https://github.com/azizbarank/Czech-T5-Base-Model) - [Hugging Face](https://huggingface.co/azizbarank/cst5-base)
+* [Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)
 
-  cst5 is a tiny T5 model for the Czech language that is based on the smaller version of Google's mT5 model. cst5 is meant to help people in doing experiments for the Czech language by enabling them to use a lightweight model, rather than the 101 languages-covering massive mT5. cst5 was obtained by retaining only the Czech and English embeddings of the mT5 model, during which the total size was reduced from **2.2GB** to **0.9GB** as a result of shrinking the original "sentencepiece" vocabulary from **250K** to **30K** tokens and parameters from **582M** to **244M**. cst5, thus, allows people to do fine-tuning for further downstream tasks in the Czech language with less size requirement and without any loss in quality from the original multilingual model.
+  Analyzed the real estate sales in the state of Connecticut between the years of 2001-2022 using Python and its libraries of pandas, numpy and matplotlib. Through analysis, the main goal was to discover the general trend of the sales amount, what type of residence types are in demand the most, the expense of the cities and relatedly, which locations are over and undervalued.
 
-* [Financial Sentiment Analysis with Machine Learning, LSTM, and BERT Transformer](https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)
+* [Amsterdam Airbnb Data Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)
 
-  Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
+  The Airbnb market analysis of Amsterdam. The data was taken from [Inside Airbnb](https://insideairbnb.com/get-the-data/). To analyze the corresponding CSV files, Microsoft PowerBI was used. During the analysis, the main goals were to discover the trend of total listings throughout the years, to compare the neighborhoods in terms of price, and to discover the most popular hosts.
 ---
-#### Machine Learning & NLP Projects
+#### 🤖 Machine Learning & NLP Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
 
   Fine-tuned the distilled Turkish BERT model on a review classification dataset for sentiment analysis. The final model achieved 86% accuracy and was deployed to Hugging Face Spaces using Streamlit as an interactive web app. The app provides a no-code way for people to see whether a particular review is "positive" or "negative". 
