@@ -36,6 +36,8 @@ In my spare time, I write posts about my personal experience in NLP and publish 
    ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda&logoColor=342B029.svg) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ## 📃 Projects
+
+This section is divided into two parts; 'Data Analysis' and 'Machine Learning & NLP' projects. You can click the given links to look at the details of the projects further.
 ---
 #### Data Analysis Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
