@@ -36,7 +36,8 @@ In my spare time, I write posts about my personal experience in NLP and publish 
    ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda&logoColor=342B029.svg) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-black?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ## 📃 Projects
-
+---
+#### Data Analysis Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
 
   Fine-tuned the distilled Turkish BERT model on a review classification dataset for sentiment analysis. The final model achieved 86% accuracy and was deployed to Hugging Face Spaces using Streamlit as an interactive web app. The app provides a no-code way for people to see whether a particular review is "positive" or "negative". 
@@ -52,7 +53,8 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 * [Financial Sentiment Analysis with Machine Learning, LSTM, and BERT Transformer](https://github.com/azizbarank/Financial-Sentiment-Analysis-with-Machine-Learning-LSTM-and-BERT-Transformer)
 
   Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
-
+---
+#### Machine Learning & NLP Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
 
   Fine-tuned the distilled Turkish BERT model on a review classification dataset for sentiment analysis. The final model achieved 86% accuracy and was deployed to Hugging Face Spaces using Streamlit as an interactive web app. The app provides a no-code way for people to see whether a particular review is "positive" or "negative". 
