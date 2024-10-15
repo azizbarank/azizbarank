@@ -43,6 +43,24 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 This section is divided into two parts; 'Machine Learning & NLP' and 'Data Analysis' projects. You can click the given links to look at the details of the projects further.
 
 ---
+#### 📈 Data Analysis Projects
+* [California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)
+
+  Analyzed the dataset about selected communicable infectious diseases reported in the state of California between 2001-2022. The dataset was taken from the official website of [Data.gov](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). Through using pandas and matplotlib, the trends of common diseases throughout the giiven years was looked at and additionally, the distribution of them by gender and counties were considered.
+
+* [Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
+ 
+  Data analysis project to gain insight into how the crime rates fluctuated in Chicago between 2001-2024. Python libraries of pandas, numpy, matplotlib and seaborn are used to achieve this. Additionally, the most common types of crimes and the locations they occur the most are considered. The dataset was taken from [Data.gov](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
+ 
+* [Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)
+
+  Analyzed the real estate sales in the state of Connecticut between the years of 2001-2022 using Python and its libraries of pandas, numpy and matplotlib. Through analysis, the main goal was to discover the general trend of the sales amount, what type of residence types are in demand the most, the expense of the cities and relatedly, which locations are over and undervalued.
+
+* [Amsterdam Airbnb Data Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)
+
+  The Airbnb market analysis of Amsterdam. The data was taken from [Inside Airbnb](https://insideairbnb.com/get-the-data/). To analyze the corresponding CSV files, Microsoft PowerBI was used. During the analysis, the main goals were to discover the trend of total listings throughout the years, to compare the neighborhoods in terms of price, and to discover the most popular hosts.
+
+---
 
 #### 🤖 Machine Learning & NLP Projects
 * [Turkish Sentiment Analyser](https://github.com/azizbarank/Turkish-Sentiment-Analyser) - [Hugging Face](https://huggingface.co/azizbarank/distilbert-base-turkish-cased-sentiment) - [Web App](https://huggingface.co/spaces/azizbarank/Turkish-Sentiment-Analysis)
@@ -61,23 +79,6 @@ This section is divided into two parts; 'Machine Learning & NLP' and 'Data Analy
 
   Financial sentiment analysis project to predict if a given financial text is to be considered as positive, negative or neutral. Machine learning, LSTM, and BERT transformer were used during the process. The best result was obtained with BERT. It achieved the accuracy score of **0.77**.
 
----
-#### 📈 Data Analysis Projects
-* [California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)
-
-  Analyzed the dataset about selected communicable infectious diseases reported in the state of California between 2001-2022. The dataset was taken from the official website of [Data.gov](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). Through using pandas and matplotlib, the trends of common diseases throughout the giiven years was looked at and additionally, the distribution of them by gender and counties were considered.
-
-* [Chicago Crime Rate Analysis](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
- 
-  Data analysis project to gain insight into how the crime rates fluctuated in Chicago between 2001-2024. Python libraries of pandas, numpy, matplotlib and seaborn are used to achieve this. Additionally, the most common types of crimes and the locations they occur the most are considered. The dataset was taken from [Data.gov](https://github.com/azizbarank/Chicago-Crime-Rate-Analysis)
- 
-* [Connecticut Real Estate Analysis](https://github.com/azizbarank/Connecticut-Real-Estate-Analysis)
-
-  Analyzed the real estate sales in the state of Connecticut between the years of 2001-2022 using Python and its libraries of pandas, numpy and matplotlib. Through analysis, the main goal was to discover the general trend of the sales amount, what type of residence types are in demand the most, the expense of the cities and relatedly, which locations are over and undervalued.
-
-* [Amsterdam Airbnb Data Analysis](https://github.com/azizbarank/Amsterdam-Airbnb-Analysis)
-
-  The Airbnb market analysis of Amsterdam. The data was taken from [Inside Airbnb](https://insideairbnb.com/get-the-data/). To analyze the corresponding CSV files, Microsoft PowerBI was used. During the analysis, the main goals were to discover the trend of total listings throughout the years, to compare the neighborhoods in terms of price, and to discover the most popular hosts.
 ---
 
 ## 💻 My Posts about NLP
