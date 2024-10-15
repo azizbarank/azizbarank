@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Aziz Baran 👨‍💻
 
-I'm a graduate Linguistics student doing a master's in Machine Learning and Natural Language Processing.
+I'm a Master's student in AI focusing on Machine Learning and Natural Language Processing.
 
 I'm passionate about constantly improving myself in the fields of Data Science and Machine learning with the aim of bringing the most effective solutions to different types of business related real-world problems.
 
