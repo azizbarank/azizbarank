@@ -16,19 +16,19 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 
 **Languages** 
 
-   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=ffdd54?)
+   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=ffdd54?) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=ffdd54?) ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=ffdd54?)
 
-**Business Intelligence**
+**Data Analytics & ETL**
 
-   ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F7931E?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
+   ![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=2C2D72) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib&logoColor=%23ffffff) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=%233F4F75) ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi&logoColor=F2C811?) ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=Tableau&logoColor=ffdd54?)
+
+**Cloud Technologies**
+   
+   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=blue) ![Databricks](https://img.shields.io/badge/Databricks-black?style=flat-square&logo=Databricks&logoColor=FF3621) ![AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=23FF9900) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-black?style=flat-square&logo=amazon-rds&logoColor=527FFF)
   
-**Natural Language Processing**
+**Machine Learning & NLP** 
 
-   ![Hugging Face Transformers](https://img.shields.io/badge/🤗_Transformers-black?style=flat-square&logo=Hugging_Face&logoColor=white)
-  
-**Machine Learning** 
-
-   ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn&logoColor=F7931E?) ![NumPy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy&logoColor=777BB4) ![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=2C2D72)
+   ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn&logoColor=F7931E?) ![NumPy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy&logoColor=777BB4) ![Hugging Face Transformers](https://img.shields.io/badge/🤗_Transformers-black?style=flat-square&logo=Hugging_Face&logoColor=white)
   
 **IDEs & Notebooks** 
   
@@ -40,10 +40,15 @@ In my spare time, I write posts about my personal experience in NLP and publish 
 
 ## 📃 Projects
 
-This section is divided into two parts; 'Machine Learning & NLP' and 'Data Analysis' projects. You can click the given links to look at the details of the projects further.
+This section is divided into two parts; 'Data Analysis' and 'Machine Learning & NLP'projects. You can click the given links to look at the details of the projects further.
 
 ---
 #### 📈 Data Analysis Projects
+
+* [Video Game Sales Analysis](https://github.com/azizbarank/Video-Game-Sales-Analysis/commits?author=azizbarank)
+
+  Analyzed the dataset about video game sales for different platforms between 2001-2022. The dataset was taken from the website of [a](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). First, using Google Colab, the data was cleaned through using pandas and then with matplotlib and seaborn, preliminary insights were gained. Finally, the cleaned data was sent to Tableau for further, in-depth visualizations.
+  
 * [California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)
 
   Analyzed the dataset about selected communicable infectious diseases reported in the state of California between 2001-2022. The dataset was taken from the official website of [Data.gov](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). Through using pandas and matplotlib, the trends of common diseases throughout the giiven years was looked at and additionally, the distribution of them by gender and counties were considered.
