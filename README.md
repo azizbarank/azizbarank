@@ -6,8 +6,6 @@ I'm passionate about constantly improving myself in the fields of Data Science a
 
 During my master's education, I realized I would enjoy leveraging AI to drive business impact in BI environments. Therefore, besides my studies, I'm learning the well-known BI tools of PowerBI and Tableau to gain insights from data and help a given business in a decision making process.
 
-In my spare time, I write posts about my personal experience in NLP and publish them in my GitHub profile under the [NLP Tutorials](https://github.com/azizbarank/NLP-Tutorials) repository.
-
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-baran-kurtulus-0334752b4/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azizbarank@gmail.com)
