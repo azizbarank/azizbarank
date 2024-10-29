@@ -47,7 +47,7 @@ This section is divided into two parts; 'Data Analysis' and 'Machine Learning & 
 
 * [Video Game Sales Analysis](https://github.com/azizbarank/Video-Game-Sales-Analysis/commits?author=azizbarank)
 
-  Analyzed the dataset about video game sales for different platforms between 2001-2022. The dataset was taken from the website of [a](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856). First, using Google Colab, the data was cleaned through using pandas and then with matplotlib and seaborn, preliminary insights were gained. Finally, the cleaned data was sent to Tableau for further, in-depth visualizations.
+  Analyzed the dataset about video game sales for different platforms between 1980s-2010s. The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales/), which was scraped from [vgchartz](http://www.vgchartz.com/). First, using Google Colab, the data was cleaned through using pandas and then with matplotlib and seaborn, preliminary insights were gained. Finally, the cleaned data was sent to Tableau for further, in-depth visualizations.
   
 * [California Infectious Diseases Analysis](https://github.com/azizbarank/California-Infectious-Diseases-Analysis)
 
