@@ -45,7 +45,7 @@ This section is divided into two parts; 'Data Analysis' and 'Machine Learning & 
 ---
 #### 📈 Data Analysis Projects
 
-* [Video Game Sales Analysis](https://github.com/azizbarank/Video-Game-Sales-Analysis/commits?author=azizbarank)
+* [Video Game Sales Analysis](https://github.com/azizbarank/Video-Game-Sales-Analysis)
 
   Analyzed the dataset about video game sales for different platforms between 1980s-2010s. The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales/), which was scraped from [vgchartz](http://www.vgchartz.com/). First, using Google Colab, the data was cleaned through using pandas and then with matplotlib and seaborn, preliminary insights were gained. Finally, the cleaned data was sent to Tableau for further, in-depth visualizations.
   
