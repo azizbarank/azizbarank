@@ -4,7 +4,7 @@ I'm a master's student in AI focusing on Machine Learning and Natural Language P
 
 I'm passionate about constantly improving myself in the fields of Data Science and Machine learning with the aim of bringing the most effective solutions to different types of business related real-world problems.
 
-During my master's education, I realized I would enjoy leveraging AI to drive business impact in BI environments. Therefore, besides my studies, I'm learning the well-known BI tools of PowerBI and Tableau to gain insights from data and help a given business in a decision making process.
+During my master's education, I realized I would enjoy leveraging data analytics and ML tools to drive business impact in BI environments. Therefore, besides my studies, I'm using the well-known BI tools of PowerBI and Tableau to gain insights from data and help a given business in a decision making process.
 
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-baran-kurtulus-0334752b4/)
