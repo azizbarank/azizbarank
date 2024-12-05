@@ -42,6 +42,9 @@ This section is divided into two parts; 'Data Analysis' and 'Machine Learning & 
 
 ---
 #### 📈 Data Analysis Projects
+* [Democracy Analysis of South America and Africa](https://github.com/azizbarank/Democracy-Analysis-South-America-Africa)
+
+  Analyzed the [EUI dataset](https://ourworldindata.org/grapher/democracy-index-eiu) about democracy scores for South American and African countries. In a Google Colab environemnt, pandas and matplotlib were used for preliminary EDA, to be loaded into Tableau for further visualization.
 
 * [Video Game Sales Analysis](https://github.com/azizbarank/Video-Game-Sales-Analysis)
 
