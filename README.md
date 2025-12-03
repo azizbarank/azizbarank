@@ -34,22 +34,18 @@ I'm a master's student in AI focusing on automation of the tedious manual proces
 
 ## 📃 Projects
 
----
-
 * **Nederlandse Voedsel- en Warenautoriteit (NVWA) Web Scrapers**
-
-  Made 7 web scrapers to extract around 60,000 animal by-product information from various document types and websites across Europe. Created an orchestrator that runs all 7 scrapers together under 15 minutes. Made regular reports to the team about the progress of the NVWA test inspections.
-  
-  Tools used: Python, Playwright, pymupdf, BeautifulSoup, PostgreSQL, FastAPI
+  - Made 7 web scrapers to extract around 60,000 animal by-product information from various document types and websites across Europe
+  - Created an orchestrator that runs all 7 scrapers together under 15 minutes
+  - Made regular reports to the team about the progress of the NVWA test inspections
+  - Tools used: Python, Playwright, pymupdf, BeautifulSoup, PostgreSQL, FastAPI
 
 * **AI-Web Radar App**
-
-  Created a local radar app to keep track of the company info about AI projects in a simple dashboard. Deployed it using an Azure Virtual Machine.
-  
-  Tools used: Python, FastAPI (backend), SQLite, Vite (frontend), Azure VMs
+  - Created a local radar app to keep track of the company info about AI projects in a simple dashboard
+  - Deployed it using an Azure Virtual Machine
+  - Tools used: Python, FastAPI (backend), SQLite, Vite (frontend), Azure VMs
 
 * **Jorritsma Bouw Document Code Extraction**
-
-  Used Azure Document Intelligence and LLMWhisperer to extract company codes from PDF files. Created a Logic App and an Azure Function app to automate the extraction workflow.
-  
-  Tools used: Python, Azure Document Intelligence, LLMWhisperer, Azure Logic Apps, Azure Functions
+  - Used Azure Document Intelligence and LLMWhisperer to extract company codes from PDF files
+  - Created a Logic App and an Azure Function app to automate the extraction workflow
+  - Tools used: Python, Azure Document Intelligence, LLMWhisperer, Azure Logic Apps, Azure Functions
