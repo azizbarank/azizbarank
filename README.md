@@ -14,7 +14,11 @@ I'm a master's student in AI focusing on automation of the tedious manual proces
 
 **Cloud Technologies**
    
-   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=0089D6) ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-black?style=flat-square&logo=azure-functions&logoColor=0062AD) ![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-black?style=flat-square&logoColor=white)
+   ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=0089D6) ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-black?style=flat-square&logo=azure-functions&logoColor=0062AD) ![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-black?style=flat-square&logoColor=white) ![Azure VMs](https://img.shields.io/badge/Azure%20VMs-black?style=flat-square&logo=microsoft-azure&logoColor=0089D6)
+
+**Frameworks**
+
+   ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=009688) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=339933) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=646CFF)
 
 **IDEs & Notebooks**
   
